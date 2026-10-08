@@ -1,0 +1,30 @@
+[
+    {
+      "userId": 1,
+      "name": "Orchid Natural Fragrance",
+      "regularPrice":1200,
+      "currentPrice":1000,
+      "photo":"https://spalabdev.wpengine.com/wp-content/uploads/2015/03/gift1.jpg"
+    },
+    {
+        "userId": 2,
+        "name": "Living Dale Natural Gift",
+        "regularPrice":120,
+        "currentPrice":100,
+        "photo":"https://spalabdev.wpengine.com/wp-content/uploads/2015/03/gift2.jpg"
+      },
+      {
+        "userId": 3,
+        "name": "Cardinal Tender Shore",
+        "regularPrice":1100,
+        "currentPrice":900,
+        "photo":"https://spalabdev.wpengine.com/wp-content/uploads/2015/03/gift3.jpg"
+      },
+      {
+        "userId": 4,
+        "name": "Bella Gift Spa Line",
+        "regularPrice":800,
+        "currentPrice":500,
+        "photo":"https://spalabdev.wpengine.com/wp-content/uploads/2015/03/gift4.jpg"
+      }
+]

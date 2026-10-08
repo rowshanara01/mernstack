@@ -1,0 +1,23 @@
+[
+    {
+      "userId": 1,
+      "name": "Angel Sienna",
+      "experience":"Beauty Therapist 8 Years Experience in jerin's parlour",
+      "email":" yourname@domain.com",
+      "photo":"https://spalabdev.wpengine.com/wp-content/uploads/2014/08/team1.jpg"
+    },
+    {
+      "userId": 2,
+      "name": "Scorlett Johanson",
+      "experience":"Beauty Therapist 6 Years Experience in jerin's parlour",
+      "email":" yourname@domain.com",
+      "photo":"https://spalabdev.wpengine.com/wp-content/uploads/2014/08/team2.jpg"
+    },
+    {
+      "userId": 3,
+      "name": "Kate Berry",
+      "experience":"Beauty Therapist 9 Years Experience in jerin's parlour",
+      "email":" yourname@domain.com",
+      "photo":"https://spalabdev.wpengine.com/wp-content/uploads/2014/08/team3.jpg"
+    }
+]
